@@ -12,7 +12,4 @@
 ## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=amirahmadi-ru&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirahmadi-ru&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadi-ru&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=amirahmadi-ru&icon=0&color=12)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahmadi-ru&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
