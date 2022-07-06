@@ -6,7 +6,7 @@ A highly motivated individual, and passionate about learning new technologies wi
 - ✨ I'm always interested in learning.
 - 🌱 I'm currently learning Data Science and AI.
 
-## 🌐 My Socials :
+## My Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Emmy.ru#6468) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirahmadi.ru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirahmadi-ru) 
 
 ## Tech Stack :
