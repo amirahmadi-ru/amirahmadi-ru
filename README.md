@@ -3,8 +3,8 @@
 ## About Me :
 A highly motivated individual, and passionate about learning new technologies with more than 1 year of experience in fields of Data Mining and Data Science. I have strong Python skills and work experience with various frameworks like fast.ai, scikit-learn, Bokeh, pandas, and NumPy, and have also worked with different tools like Git, and Docker, etc...
 
-- ✨ I'm always interested in learning.
-- 🌱 I'm currently learning Data Science and AI.
+- ✨ I'm always interested in **learning**.
+- 🌱 I'm currently learning **Data Science** and **AI**.
 
 ## My Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirahmadi-ru) 
